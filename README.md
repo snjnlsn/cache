@@ -1,6 +1,6 @@
 # Cache
 
-**TODO: Add description**
+Exercise from The Little OTP / Elixir Guidebook. Done as a refresher on GenServer functionality, kind of for fun.
 
 ## Installation
 
